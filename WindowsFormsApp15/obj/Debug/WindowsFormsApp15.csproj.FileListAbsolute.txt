@@ -1,0 +1,64 @@
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Form1.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Rooms.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.ViewOwner.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.ViewCustomer.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.ViewAdmin.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.AdminClient.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Reservations.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.AssemblyReference.cache
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.dll
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\MetroSet UI.dll
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.xml
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.AssemblyReference.cache
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.AdminClient.resources
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Login.resources
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Reservations.resources
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Rooms.resources
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.ViewAdmin.resources
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.ViewCustomer.resources
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.ViewOwner.resources
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CopyComplete
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+D:\ITI\ITI Recordings\Projects\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.AssemblyReference.cache
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.dll
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\MetroSet UI.dll
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.xml
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.AdminClient.resources
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Login.resources
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Reservations.resources
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.ViewAdmin.resources
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.ViewCustomer.resources
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.ViewOwner.resources
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Abbas's Team C#\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CopyComplete

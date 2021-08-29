@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Testing_ModelStoreContainer" CdmEntityContainer="HotelEntities">
+    <EntitySetMapping Name="Bookings">
+      <EntityTypeMapping TypeName="Testing_Model.Booking">
+        <MappingFragment StoreEntitySet="Booking">
+          <ScalarProperty Name="House_id" ColumnName="House_id" />
+          <ScalarProperty Name="User_id" ColumnName="User_id" />
+          <ScalarProperty Name="Booking_id" ColumnName="Booking_id" />
+          <ScalarProperty Name="Start_Booking" ColumnName="Start_Booking" />
+          <ScalarProperty Name="End_Booking" ColumnName="End_Booking" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Houses">
+      <EntityTypeMapping TypeName="Testing_Model.House">
+        <MappingFragment StoreEntitySet="Houses">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="Is_avalibale" ColumnName="Is_avalibale" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="User_id" ColumnName="User_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="Testing_Model.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Roles_id" ColumnName="Roles_id" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="Testing_Model.Role">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
